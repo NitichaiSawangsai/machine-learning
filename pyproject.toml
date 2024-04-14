@@ -15,6 +15,7 @@ pytz = "^2024.1"
 numpy = "^1.26.4"
 lab = "^8.1"
 python-dotenv = "^1.0.1"
+black = "^24.4.0"
 
 
 [build-system]
