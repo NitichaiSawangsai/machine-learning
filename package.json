@@ -9,7 +9,7 @@
   },
   "scripts": {
     "install": "poetry shell",
-    "run": "poetry run python main.py",
+    "dev": "poetry run python main.py",
     "add-package": "poetry add"
   },
   "license": "ISC"
