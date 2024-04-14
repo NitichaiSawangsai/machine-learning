@@ -16,6 +16,11 @@ numpy = "^1.26.4"
 lab = "^8.1"
 python-dotenv = "^1.0.1"
 black = "^24.4.0"
+jupyterlab = "^4.1.6"
+xlrd = "^2.0.1"
+matplotlib = "^3.8.4"
+seaborn = "^0.13.2"
+scikit-learn = "^1.4.2"
 
 
 [build-system]
