@@ -25,15 +25,15 @@ $ npm add-package ${name Package}
 ```
 
 
-## Run Project
+# Run Project
 
-# set ENV
+### set ENV
  create file .env
 ```    
 VERSION=1.0.0
 ```
 
-# run
+### run
 ```
 $ poetry shell
 $ npm run dev
